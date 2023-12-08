@@ -1,5 +1,5 @@
 # Flappy-Bird-2.0
-# V.1 Logs 07/12/2023
+# Sprint 1 Logs 07/12/2023
 # *Animar Flappy Bird - PV
 # *Cambiar fondo cada 10 puntos(dia/noche) - DL
 # *Animar los tubos verticalmente - CS
