@@ -5,4 +5,4 @@
 # *Animar los tubos verticalmente - CS
 # *SFX(day,night,choque,points,coins,fly,powerups) - DL
 # *PowerUp atravesar Tubos - CS
-# *Pantalla de Game Over!
+# *Pantalla de Game Over! - AJ
