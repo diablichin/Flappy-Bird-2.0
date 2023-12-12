@@ -8,6 +8,7 @@ TagManager:
   - pipe
   - ground
   - Item
+  - Item2
   layers:
   - Default
   - TransparentFX
