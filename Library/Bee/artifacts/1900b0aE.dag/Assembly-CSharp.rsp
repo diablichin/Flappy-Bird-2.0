@@ -101,6 +101,7 @@
 -define:NETSTANDARD
 -define:NETSTANDARD2_1
 -define:ENABLE_PROFILER
+-define:UNITY_SERVER
 -define:DEBUG
 -define:TRACE
 -define:UNITY_ASSERTIONS
@@ -373,6 +374,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.2.15f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs"
 "Assets/Scripts/BirdMovement.cs"
+"Assets/Scripts/BotonSkins.cs"
 "Assets/Scripts/ColumnMovement.cs"
 "Assets/Scripts/ColumnSpawner.cs"
 "Assets/Scripts/ContadorUpdate.cs"
@@ -380,6 +382,7 @@
 "Assets/Scripts/GameOver.cs"
 "Assets/Scripts/Item.cs"
 "Assets/Scripts/ScoreUpdate.cs"
+"Assets/Scripts/Skins.cs"
 "Assets/Scripts/SoundManagerScript.cs"
 -langversion:9.0
 
