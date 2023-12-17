@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4a2284e577ff6944b1dde6aea089454, type: 3}
+  m_Name: Femenino2
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 33282937445426136, guid: 6964aa28d3c1b894a9f1e6ed8ceeda82, type: 3}
+  imagen: {fileID: 419810948, guid: f37e16b9696e1ce4aa87b281189a10b5, type: 3}
+  nombre: Femenino2

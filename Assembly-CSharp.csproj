@@ -60,7 +60,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ColumnSpawner.cs" />
     <Compile Include="Assets\Scripts\BirdMovement.cs" />
+    <Compile Include="Assets\Scripts\MenuSeleccionPersonaje.cs" />
+    <Compile Include="Assets\Scripts\InicioJugador.cs" />
     <Compile Include="Assets\Scripts\ContadorUpdate.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\SoundManagerScript.cs" />
     <Compile Include="Assets\Scripts\Skins.cs" />
     <Compile Include="Assets\Scripts\ScoreUpdate.cs" />
